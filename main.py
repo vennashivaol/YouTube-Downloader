@@ -11,6 +11,6 @@ bot = Client(
     plugins=dict(root="plugins")
 )
 bot.start()
-print("Bot Started ⚡")
+print("Bot Started..")
 idle()
 bot.stop()
